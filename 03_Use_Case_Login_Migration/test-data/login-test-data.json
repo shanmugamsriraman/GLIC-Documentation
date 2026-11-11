@@ -1,0 +1,13 @@
+{
+  "feature": "Login",
+  "environment": "[ENVIRONMENT]",
+  "note": "Use synthetic/non-production test data. Never store actual passwords or secrets.",
+  "valid_user": {
+    "username": "[SYNTHETIC_USERNAME]",
+    "password_secret_reference": "[SECRET_MANAGER_REFERENCE]"
+  },
+  "invalid_password": {
+    "username": "[SYNTHETIC_USERNAME]",
+    "password_secret_reference": "[INVALID_SECRET_REFERENCE]"
+  }
+}

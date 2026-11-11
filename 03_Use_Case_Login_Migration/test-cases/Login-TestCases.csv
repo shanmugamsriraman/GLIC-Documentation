@@ -1,0 +1,3 @@
+TestCaseID,Feature,Title,Preconditions,Steps,ExpectedResult,TestDataReference
+TC_LOGIN_001,Login,Valid user login,[APPROVED_PRECONDITION],[APPROVED_STEPS],[APPROVED_EXPECTED_RESULT],valid_user
+TC_LOGIN_002,Login,Invalid password,[APPROVED_PRECONDITION],[APPROVED_STEPS],[APPROVED_EXPECTED_RESULT],invalid_password

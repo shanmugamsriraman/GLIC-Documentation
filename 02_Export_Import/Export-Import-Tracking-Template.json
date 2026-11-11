@@ -1,0 +1,22 @@
+{
+  "record_type": "documentation_tracking_only_not_aiforce_import",
+  "source_project": "[SOURCE_PROJECT]",
+  "target_project": "[TARGET_PROJECT]",
+  "agent_name": "[AGENT_NAME]",
+  "agent_version": "[VERSION]",
+  "native_export_filename": "[ACTUAL_EXPORTED_FILENAME]",
+  "export_timestamp": "[ISO_TIMESTAMP]",
+  "import_timestamp": "[ISO_TIMESTAMP]",
+  "dependencies": {
+    "prompts": [],
+    "tools": [],
+    "mcp_servers": [],
+    "rag_collections": []
+  },
+  "validation": {
+    "import_result": "[PENDING]",
+    "agent_test_result": "[PENDING]",
+    "evidence_location": "[LOCATION]"
+  },
+  "note": "Tracking template only. Not an AI Force import payload."
+}
